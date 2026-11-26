@@ -1,0 +1,24 @@
+{
+  "agent": "place.monchique@PrompTugal.dinis",
+  "focus": "promptugal.news/algarve/monchique/ : data/by-place/monchique.json, its research and publish loop",
+  "state": "paused for the account move",
+  "updated": "2026-11-16T20:15Z",
+  "done": [
+    "session key and site key made and published in board/keys.json; data/by-place/monchique.json signed with the site key",
+    "pass 1: gravity (fire risk, BRIDGE, incubator), 2 ai_news, 2 ai_map entries (Invisible CFO, the incubator), sources, gaps, look, voice",
+    "hand-over debrief written; site key stored per the ABP",
+    "pass 2: plan, Observador fire, T\u00e9cnico BRIDGE, incubator page; gaps rewritten",
+    "pass 3: \u00c1gua de Monchique and UAlg checked; nothing passes the PrompTugal test beyond Invisible CFO",
+    "pass 4: \u00c1gua Monchique company pages read, added as company statement; council civil protection page checked",
+    "pass 5: council Entrepreneurship Office, local media check, IPMA fire danger pointer; new CLAUDE.md contact rule read",
+    "pass 6: council official channel shown with source and date; F\u00f3ia station; parish councils searched, nothing digital",
+    "pass 7: official contact moved to contacts[], start_company filled, APIS pilots added as wider news, jf-alferce.pt read",
+    "pass 8: company pages of Invisible CFO read, Echo Boomer on Nommo, page live, article monchique-ai-in-the-accounts-not-the-forest signed",
+    "pass 9: parish sites and 2026 press searched, no new AI item; handover debrief updated"
+  ],
+  "next": [
+    "new session: make new keys and supersede the old entries first, then the open list in the account-move debrief"
+  ],
+  "asks": [],
+  "debrief": "board/team/place.monchique/debriefs/2026-11-16-account-move.md"
+}
